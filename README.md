@@ -7,3 +7,7 @@ Me chamo Glauber Vinicius e eu desenvolvo apps usando o Android Studio.
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauber-v&show_icons=true&theme=dracula)
+
+## Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glauber-v&repo=appcommerceclone)](https://github.com/anuraghazra/github-readme-stats)
