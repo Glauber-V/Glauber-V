@@ -10,4 +10,4 @@ Me chamo Glauber Vinicius e eu desenvolvo apps usando o Android Studio.
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glauber-v&repo=appcommerceclone)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glauber-v&repo=appcommerceclone)](https://github.com/Glauber-V/AppCommerceClone)
