@@ -11,4 +11,5 @@ I'm android developer 📱.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauber-v&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚧 Most recent project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glauber-v&repo=AppCommerceClone&show_owner=true&icon_color=8be9fd&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glauber-v&repo=AppCommerceClone
+&show_owner=true&icon_color=8be9fd&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36)](https://github.com/anuraghazra/github-readme-stats)
